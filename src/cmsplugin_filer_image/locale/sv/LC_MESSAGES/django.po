@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-16 11:42+0100\n"
+"PO-Revision-Date: 2010-11-16 11:41+0100\n"
+"Last-Translator: Simon Hedberg <simon@in-formation.se>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: cms_plugins.py:12
+msgid "Image"
+msgstr "Bild"
+
+#: cms_plugins.py:21
+msgid "Image resizing options"
+msgstr "Inställningar för omskalning av bild"
+
+#: cms_plugins.py:31
+msgid "More"
+msgstr "Mer"
+
+#: models.py:15
+msgid "left"
+msgstr "vänster"
+
+#: models.py:16
+msgid "right"
+msgstr "höger"
+
+#: models.py:18
+msgid "caption"
+msgstr "bildtext"
+
+#: models.py:20
+msgid "alternative image url"
+msgstr "alternativ bild-url"
+
+#: models.py:21
+msgid "alt text"
+msgstr "alt text"
+
+#: models.py:22 models.py:80
+msgid "thumbnail option"
+msgstr "tumnagel"
+
+#: models.py:23
+msgid "use automatic scaling"
+msgstr "skala automatiskt"
+
+#: models.py:24
+msgid "tries to auto scale the image based on the placeholder context"
+msgstr "försöker skala bilden baserat på innehållsytans inställningar"
+
+#: models.py:25 models.py:73
+msgid "width"
+msgstr "bredd"
+
+#: models.py:26 models.py:74
+msgid "height"
+msgstr "höjd"
+
+#: models.py:27 models.py:75
+msgid "crop"
+msgstr "beskär"
+
+#: models.py:28 models.py:76
+msgid "upscale"
+msgstr "skala upp"
+
+#: models.py:29
+msgid "image alignment"
+msgstr "bildjustering"
+
+#: models.py:31
+msgid "link"
+msgstr "länk"
+
+#: models.py:32 models.py:34
+msgid "if present image will be clickable"
+msgstr "gör bilden klickbar"
+
+#: models.py:35
+msgid "page link"
+msgstr "sidlänk"
+
+#: models.py:36
+msgid "description"
+msgstr "beskrivning"
+
+#: models.py:39
+msgid "filer image"
+msgstr "bild"
+
+#: models.py:40
+msgid "filer images"
+msgstr "bilder"
+
+#: models.py:46
+msgid "Either an image or an image url must be selected."
+msgstr "Antingen en bild eller bild-url måste anges."
+
+#: models.py:53
+#, python-format
+msgid "Image Publication %(caption)s"
+msgstr "Bildpublicering %(caption)s"
+
+#: models.py:72
+msgid "name"
+msgstr "namn"
+
+#: models.py:73
+msgid "width in pixel."
+msgstr "bredd i pixlar."
+
+#: models.py:74
+msgid "height in pixel."
+msgstr "höjd i pixlar."
+
+#: models.py:81
+msgid "thumbnail options"
+msgstr "bildstorlek"
